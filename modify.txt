@@ -1,0 +1,6 @@
+    Features
+-------------------------------
+
+*) edit or delete notice
+*) password encryption
+*) forgot password
