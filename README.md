@@ -3,7 +3,7 @@
 
 CREATE DATABASE attendance_mng;
 use attendance_mng;
-use attendance_db;
+
 CREATE TABLE department (
     d_id INT PRIMARY KEY AUTO_INCREMENT,
     d_name VARCHAR(255) NOT NULL
