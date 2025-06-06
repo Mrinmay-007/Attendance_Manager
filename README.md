@@ -1,4 +1,4 @@
-## Database 
+## Database Creation
 CREATE DATABASE attendance;<br>
 use attendance;<br>
 ### Department Table
