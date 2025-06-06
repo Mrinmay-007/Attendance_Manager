@@ -1,5 +1,5 @@
 ## Database 
-CREATE DATABASE attendance;
+CREATE DATABASE attendance;<br>
 use attendance;
 ### Department Table
 CREATE TABLE department(
