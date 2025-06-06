@@ -7,10 +7,11 @@ D_id INT PRIMARY KEY AUTO_INCREMENT,<br>
 d_name VARCHAR(255) NOT NULL,<br>
 role VARCHAR(255) NOT NULL<br>
 );<br>
-**<u>Slot Table</u>**
+##<u>Slot Table</u>
 CREATE TABLE slot(<br>
 sl_id INT primary key auto_increment,<br>
 start TIME NOT NULL,<br>
 end TIME NOT NULL,<br>
 slot_name VARCHAR(50) UNIQUE NOT NULL<br>
 );<br>
+<u>This text is underlined</u>
